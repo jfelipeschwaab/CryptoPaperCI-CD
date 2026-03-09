@@ -67,6 +67,6 @@ class ServiceManager: ServiceManagerProtocol {
         }
         
         // Inicia a task para chamar a API.
-        task.resume()
+        task.resume() 
     }
 }
